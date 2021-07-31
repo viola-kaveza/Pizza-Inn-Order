@@ -12,7 +12,7 @@ https://viola-kaveza.github.io/Pizza-Inn-Order/
 # Setup/Installation Requirements
 Open terminal (CTRL ALT T)
 
-git clone https://viola-kaveza.github.io/Delani-Studio/
+git clone https://viola-kaveza.github.io/Pizza-Inn-Order/
 
 cd portfolio easy-to-understand use atom . or code . to open the clone repo on Atom or VS-code respectively
 

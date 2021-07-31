@@ -29,6 +29,9 @@ Javascript
 
 Jquery
 
+# Licence
+Licensed under the MIT license.
+
 
 
 

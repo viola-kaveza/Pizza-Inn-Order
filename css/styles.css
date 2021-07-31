@@ -5,20 +5,32 @@
     box-sizing: border-box;
   }
   
-  .navbar {
-    font-size: 25px !important;
-    background-color: goldenrod !important;
-    z-index: 100;
+  nav {
+    background-color: whitesmoke;
+    width: 100%;
+    padding: 20px;
   }
-  
-  .navbar-brand {
-    font-size: 30px;
-    color: black;
+  .mynav {
+    text-align: center;
+  }
+  .mynav > li {
+    list-style: none;
+    display: inline;
+  }
+  .mynav > li > a {
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+  }
+  .mynav > li > a:hover {
+    background-color: blueviolet;
+    padding: 21px;
+    color: white;
   }
   
   .toppage {
     height: 100vh;
-    background-image: url("https://bit.ly/2rN3jm8");
+    background-image: url("https://bit.ly/3lgqH4P");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

@@ -7,7 +7,7 @@ Viola Kaveza
 This is a site which mainly deals with product management,design and development.
 
 # Live Link
-https://viola-kaveza.github.io/Delani-Studio/
+https://viola-kaveza.github.io/Pizza-Inn-Order/
 
 # Setup/Installation Requirements
 Open terminal (CTRL ALT T)
